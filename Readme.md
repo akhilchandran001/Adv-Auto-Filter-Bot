@@ -12,6 +12,8 @@
   </a>  
 </p>
 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/akhilchandran001/Adv-Auto-Filter-Bot)
+
 
 # Deprecate Version.... Use Latest One Given Below... 
 
